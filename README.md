@@ -14,6 +14,8 @@ mv themes ~/.config/helix/
 
 ## Scheme color
 
+![](./images/taffy-16.png)
+
 <table>
     <tbody align="center">
     <tr>
@@ -102,3 +104,7 @@ mv themes ~/.config/helix/
         <td bgcolor="#a3c0e6" ></td>
     </tr>
 </table>
+
+## Thanks To
+
+inspired by [@PineTreePizza](https://twitter.com/PineTreePizza)
