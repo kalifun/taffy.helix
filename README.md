@@ -12,6 +12,12 @@ git clone https://github.com/kalifun/taffy.git
 mv themes ~/.config/helix/
 ```
 
+You need to modify `~/.config/helix/config.toml`:
+
+``` toml
+theme = "taffy16"
+```
+
 ## Scheme color
 
 ![](./images/taffy-16.png)
