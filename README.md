@@ -22,94 +22,24 @@ theme = "taffy16"
 
 ![](./images/taffy-16.png)
 
-<table>
-    <tbody align="center">
-    <tr>
-        <th>color name</th>
-        <th>hex color</th>
-        <th>color block</th>
-    </tr>
-    <tr>
-        <td>baby-powder</td>
-        <td><b>#fafffc</td>
-        <td bgcolor="#fafffc" ></td>
-    </tr>
-    <tr>
-        <td>dark-gunmetal</td>
-        <td><b>#222533</td>
-        <td bgcolor="#222533" ></td>
-    </tr>
-    <tr>
-        <td>cinnabar</td>
-        <td><b>#db4b3d</td>
-        <td bgcolor="#db4b3d" ></td>
-    </tr>
-    <tr>
-        <td>paradise-pink</td>
-        <td><b>#dc435b</td>
-        <td bgcolor="#dc435b" ></td>
-    </tr>
-    <tr>
-        <td>dominant</td>
-        <td><b>#36354d</td>
-        <td bgcolor="#36354d" ></td>
-    </tr>
-    <tr>
-        <td>french-lime</td>
-        <td><b>#a7f547</td>
-        <td bgcolor="#a7f547" ></td>
-    </tr>
-    <tr>
-        <td>violet-blue</td>
-        <td><b>#3f48c2</td>
-        <td bgcolor="#3f48c2" ></td>
-    </tr>
-    <tr>
-        <td>tufts-blue</td>
-        <td><b>#448de7</td>
-        <td bgcolor="#448de7" ></td>
-    </tr>
-    <tr>
-        <td>banana-yellow</td>
-        <td><b>#ffeb33</td>
-        <td bgcolor="#ffeb33" ></td>
-    </tr>
-    <tr>
-        <td>cadmium-orange</td>
-        <td><b>#f58931</td>
-        <td bgcolor="#f58931" ></td>
-    </tr>
-    <tr>
-        <td>light-tangelo</td>
-        <td><b>#ffab7b</td>
-        <td bgcolor="#ffab7b" ></td>
-    </tr>
-    <tr>
-        <td>ufo-green</td>
-        <td><b>#2bdb72</td>
-        <td bgcolor="#2bdb72" ></td>
-    </tr>
-    <tr>
-        <td>english-red</td>
-        <td><b>#a63d57</td>
-        <td bgcolor="#a63d57" ></td>
-    </tr>
-    <tr>
-        <td>begonia</td>
-        <td><b>#ff6c7a</td>
-        <td bgcolor="#ff6c7a" ></td>
-    </tr>
-    <tr>
-        <td>glaucous</td>
-        <td><b>#6275ba</td>
-        <td bgcolor="#6275ba" ></td>
-    </tr>
-    <tr>
-        <td>pale-cerulean</td>
-        <td><b>#a3c0e6</td>
-        <td bgcolor="#a3c0e6" ></td>
-    </tr>
-</table>
+|   color name   | hex color |                   color block                    |
+| :------------: | :-------: | :----------------------------------------------: |
+|  baby-powder   |  #fafffc  | ![](https://img.shields.io/badge/-fafffc-fafffc) |
+| dark-gunmetal  |  #222533  | ![](https://img.shields.io/badge/-222533-222533) |
+|    cinnabar    |  #db4b3d  | ![](https://img.shields.io/badge/-db4b3d-db4b3d) |
+| paradise-pink  |  #dc435b  | ![](https://img.shields.io/badge/-dc435b-dc435b) |
+|    dominant    |  #36354d  | ![](https://img.shields.io/badge/-36354d-36354d) |
+|  french-lime   |  #a7f547  | ![](https://img.shields.io/badge/-a7f547-a7f547) |
+|  violet-blue   |  #3f48c2  | ![](https://img.shields.io/badge/-3f48c2-3f48c2) |
+|   tufts-blue   |  #448de7  | ![](https://img.shields.io/badge/-448de7-448de7) |
+| banana-yellow  |  #ffeb33  | ![](https://img.shields.io/badge/-ffeb33-ffeb33) |
+| cadmium-orange |  #f58931  | ![](https://img.shields.io/badge/-f58931-f58931) |
+| light-tangelo  |  #ffab7b  | ![](https://img.shields.io/badge/-ffab7b-ffab7b) |
+|   ufo-green    |  #2bdb72  | ![](https://img.shields.io/badge/-2bdb72-2bdb72) |
+|  english-red   |  #a63d57  | ![](https://img.shields.io/badge/-a63d57-a63d57) |
+|    begonia     |  #ff6c7a  | ![](https://img.shields.io/badge/-ff6c7a-ff6c7a) |
+|    glaucous    |  #6275ba  | ![](https://img.shields.io/badge/-6275ba-6275ba) |
+| pale-cerulean  |  #a3c0e6  | ![](https://img.shields.io/badge/-a3c0e6-a3c0e6) |
 
 ## Thanks To
 
