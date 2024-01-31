@@ -7,7 +7,7 @@
 ## Quick Start
 
 ```bash
-git clone https://github.com/kalifun/taffy.git
+git clone https://github.com/kalifun/taffy.helix.git
 
 mv themes ~/.config/helix/
 ```
